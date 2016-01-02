@@ -1,2 +1,7 @@
 # hello-world
-The GetHub Hello World Tutorial
+
+Dear Users:
+
+This README is just endless babble for dimonstrating branches in GIT
+
+Thank you
